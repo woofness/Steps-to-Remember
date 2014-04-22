@@ -13,4 +13,4 @@ git push ...to push the local repo commit to github<br><br>
 
 
 mkdir ~/examplereponame ...to make a local folder in my working directory for the same name as the repo, if needed<br>
-git clone https://github.com/username/reponame.git ...to copy the github repo to local working directory, if needed<br>
+git clone https://github.com/username/reponame.git ...to copy the github repo to local working directory, if needed. This can replace git init and git remote (I think)<br>
